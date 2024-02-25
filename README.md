@@ -27,4 +27,4 @@ beberapa *insight* menarik didalam data
    anda bisa melihat aplikasi yang telah dideploy di streamlit dalam [link ini](https://bikesharinganalysisadit123499.streamlit.app/)
 ## Preview
 berikut tampilah dashboard terkait
-[dashboard](preview.png)
+![dashboard](preview.png)
