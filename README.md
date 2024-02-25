@@ -24,7 +24,7 @@ beberapa *insight* menarik didalam data
    cd bike_sharing_analysis/dashboard/
    streamlit run dashboard.py
    ```
-   anda bisa melihat aplikasi yang telah dideploy di streamlit dalam [link ini](https://bikesharinganalysisadit123499.streamlit.app/)
+   anda bisa melihat aplikasi yang telah dideploy di streamlit dalam [link ini](https://bikesharinganalysis-6q5umxnunzv9ttma4bpbks.streamlit.app/)
 ## Preview
 berikut tampilah dashboard terkait
 ![dashboard](preview.png)
